@@ -15,7 +15,7 @@
 
 // BEGIN_INCLUDE
 #include <dantom\db\db.dme>
-#include "C:\Users\Joelie\Dropbox\3-Programming\Z\mysql\Core.dm"
+#include "Core.dm"
 #include "msql.dm"
 #include "SQLHandler.dm"
 #include "TextHandling.dm"
